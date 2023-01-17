@@ -1,5 +1,5 @@
 # CENTROGEOMAPARESIDENCIA
-Mapa echo en centro geo
+Mapa hecho en centro geo
 Este mapa se trabajo con las librerias y APIS de leaflet, overpass y google maps.
 Cosas a considerar:
 La licencia actual de google maps consta de 3 meses apartir del 15 de enero 2022, por lo que se recomienda cambiarla cada 3 meses o por defecto comprarla
